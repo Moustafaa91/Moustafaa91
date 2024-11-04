@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on emergn.com<br>👯 I’m looking to collaborate on any inspiring projects .. or games<br>🤝 I’m looking for help with open-source tools or learning platforms<br>🌱 I’m currently learning React and node.js<br>💬 Ask me about any possible collaboration <br>⚡ Fun fact let's imagine it's possible to brute force through every pixel combination of 128 * 128 image, which means we created a picture of every moment that happened or may happen in the universe in the past, present, and even future. 
+🚀 Check my website implemented with React.js to showcase the use of Azure Vision AI 🚀
+https://azure-ai-vision.netlify.app/
+
+Experienced software engineer with several years of experience in software and web development, troubleshooting, and support using Microsoft .Net/ C# technology stack, JavaScript, SQL Server, NodeJS, ReactJS, and I'm open to working with any programming language or technology stack due to my foundation in software development principles.
+Worked in agile scrum teams, and also have experience in Azure DevOps, Git, unit testing, PowerShell, and CI/CD automated pipelines. Passionate about algorithms, data structures, and problem-solving, and interested in participating in competitive programming competitions.
+
+Bachelor's degree in Computer Science.
+
+Email: moustafa.attia.91@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,9 +22,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Moustafaa91&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Moustafaa91&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Moustafaa91&icon=0&color=0)](https://visitcount.itsvg.in)
